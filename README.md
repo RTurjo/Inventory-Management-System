@@ -53,6 +53,6 @@ Contributions are welcome! Feel free to submit a pull request if you find any bu
 
 ## Contact
 For any queries, contact:
-- Email: rturjo79@gmail.com.com
+- Email: rturjo79@gmail.com
 
 
